@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+        height: 100%;
+        font-family: "Roboto", sans-serif;
+}
+
+body {
+    /*background-color: #ffff00;*/
+    /* background-image: url(Image20231213182125.png)8?
+    /* background: #cccccc url(Image20231213182125.png) no-repeat right top / cover;*/
+    /*border: 1px solid #ff00ff; 
+    border-radius: 10px;*/
+}
+
+.block {
+    margin: 100px 0;
+    padding: 30px;
+    border: 1px solid #ff0000;
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    max-height: 100px;
+}
+
+.title-h1 {
+    margin-left: 20px;
+}
+
+.title-h2 {
+    margin: 25px;
+}
+
+.title-h3 {
+    margin: 50px 25px;
+}
+
+.title-h4 {
+    width: 200px;
+    margin: o auto;
+}
+
+.title-h5 {
+    padding: 30px;
+}
+
+.title-h6 {
+    padding: 50px;
+}
+
+.paragraph {
+    padding: 25px 50px;
+}
